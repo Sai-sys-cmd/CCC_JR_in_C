@@ -3,7 +3,7 @@
 #include <string.h>
 
 int main() {
-    char input[101];
+    char input[20];
     scanf("%s", input);
 
     int i = 0;
